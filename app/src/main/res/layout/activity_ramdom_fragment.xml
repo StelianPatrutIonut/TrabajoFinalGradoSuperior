@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.ramdom.RamdomFragment">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/layoutPublicacion"
+            android:layout_width="370dp"
+            android:layout_height="640dp"
+            android:background="@drawable/esquina_redondeada_phone"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.487"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.494">
+
+            <EditText
+                android:id="@+id/eTextComentario"
+                android:layout_width="335dp"
+                android:layout_height="150dp"
+                android:background="@drawable/esquina_redondeada_edit_text"
+                android:backgroundTint="#EAE5E5"
+                android:fontFamily="sans-serif-black"
+                android:hint="@string/hint_publicacion"
+                android:inputType="textMultiLine"
+                android:paddingLeft="20dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.542"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.781" />
+
+            <ImageView
+                android:id="@+id/iViewFotoSeleccionnada"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.498"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.205"
+                tools:srcCompat="@tools:sample/avatars" />
+
+            <Button
+                android:id="@+id/btnCamara"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Cámara"
+                android:backgroundTint="#FDF6FE"
+                android:fontFamily="sans-serif-black"
+                android:textColor="#042E44"
+                android:textSize="20sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.122"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.499" />
+
+            <Button
+                android:id="@+id/btnGaleria"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Galeria"
+                android:backgroundTint="#FDF6FE"
+                android:fontFamily="sans-serif-black"
+                android:textColor="#042E44"
+                android:textSize="20sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.891"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.499" />
+
+            <Button
+                android:id="@+id/btnActualizar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#042E44"
+                android:fontFamily="sans-serif-black"
+                android:text="Publicar"
+                android:textSize="20sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.508"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.957" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="180dp"
+                android:layout_height="180dp"
+                android:backgroundTint="#C84949"
+                android:tint="#FFFEFE"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.180"
+                app:srcCompat="@android:drawable/gallery_thumb" />
+
+            <TextView
+                android:id="@+id/btnRegistro"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-black"
+                android:text="@string/cabecera_publication"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp"
+                android:textAlignment="center"
+                tools:ignore="MissingConstraints"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.506"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.026" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <fragment
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/spinner"
+        app:layout_constraintVertical_bias="0.0"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <Button
+        android:id="@+id/updateButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-black"
+        android:backgroundTint="#042E44"
+        android:text="Ruta aleatoria"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.90" />
+
+    <ImageButton
+        android:id="@+id/compartir"
+        android:layout_width="65dp"
+        android:layout_height="30dp"
+        android:src="@drawable/compartir"
+        android:background="@drawable/esquina_redondeada_edit_text"
+        app:backgroundTint="?attr/colorPrimary"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.05"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.95"
+        tools:ignore="MissingConstraints,RtlCompat" />
+
+
+    <ImageButton
+        android:id="@+id/favoritos"
+        android:layout_width="65dp"
+        android:layout_height="30dp"
+        android:src="@drawable/favorite"
+        android:background="@drawable/esquina_redondeada_edit_text"
+        app:backgroundTint="?attr/colorPrimary"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.35"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.95"
+        tools:ignore="RtlCompat" />
+
+    <ImageButton
+        android:id="@+id/publicacion"
+        android:layout_width="65dp"
+        android:layout_height="30dp"
+        android:src="@drawable/publicaciones"
+        android:background="@drawable/esquina_redondeada_edit_text"
+        app:backgroundTint="?attr/colorPrimary"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.65"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.95"
+        tools:ignore="RtlCompat" />
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="408dp"
+        android:layout_height="60dp"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:fontFamily="sans-serif-black"
+        android:backgroundTint="#EAE5E5"
+        tools:ignore="MissingConstraints" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

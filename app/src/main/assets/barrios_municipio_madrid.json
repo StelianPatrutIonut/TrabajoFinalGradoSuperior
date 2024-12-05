@@ -1,0 +1,1284 @@
+{
+  "data": [
+    {
+      "barrio_codigo": "0796011",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 15323.287671232873,
+      "distrito_nombre": "    Centro ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079601",
+      "superficie_km2": 1.4600000000000004,
+      "barrio_nombre": "        Palacio"
+    },
+    {
+      "barrio_codigo": "0796012",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 43345.63106796115,
+      "distrito_nombre": "    Centro ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079601",
+      "superficie_km2": 1.0300000000000005,
+      "barrio_nombre": "        Embajadores"
+    },
+    {
+      "barrio_codigo": "0796013",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 17850.84745762712,
+      "distrito_nombre": "    Centro ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079601",
+      "superficie_km2": 0.59,
+      "barrio_nombre": "        Cortes"
+    },
+    {
+      "barrio_codigo": "0796014",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 21866.666666666664,
+      "distrito_nombre": "    Centro ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079601",
+      "superficie_km2": 0.7500000000000001,
+      "barrio_nombre": "        Justicia"
+    },
+    {
+      "barrio_codigo": "0796015",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 33051.6129032258,
+      "distrito_nombre": "    Centro ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079601",
+      "superficie_km2": 0.9300000000000002,
+      "barrio_nombre": "        Universidad"
+    },
+    {
+      "barrio_codigo": "0796016",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 16304.444444444442,
+      "distrito_nombre": "    Centro ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079601",
+      "superficie_km2": 0.45000000000000007,
+      "barrio_nombre": "        Sol"
+    },
+    {
+      "barrio_codigo": "0796021",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 23105.102040816324,
+      "distrito_nombre": "    Arganzuela ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079602",
+      "superficie_km2": 0.9800000000000001,
+      "barrio_nombre": "        Imperial"
+    },
+    {
+      "barrio_codigo": "0796022",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 33318.18181818181,
+      "distrito_nombre": "    Arganzuela ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079602",
+      "superficie_km2": 1.1000000000000003,
+      "barrio_nombre": "        Las Acacias"
+    },
+    {
+      "barrio_codigo": "0796023",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 35276.78571428571,
+      "distrito_nombre": "    Arganzuela ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079602",
+      "superficie_km2": 0.56,
+      "barrio_nombre": "        La Chopera"
+    },
+    {
+      "barrio_codigo": "0796024",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 13826.277372262775,
+      "distrito_nombre": "    Arganzuela ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079602",
+      "superficie_km2": 1.3699999999999999,
+      "barrio_nombre": "        Legazpi"
+    },
+    {
+      "barrio_codigo": "0796025",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 25485.04672897196,
+      "distrito_nombre": "    Arganzuela ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079602",
+      "superficie_km2": 1.07,
+      "barrio_nombre": "        Delicias"
+    },
+    {
+      "barrio_codigo": "0796026",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 39372.30769230769,
+      "distrito_nombre": "    Arganzuela ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079602",
+      "superficie_km2": 0.6500000000000001,
+      "barrio_nombre": "        Palos de Moguer"
+    },
+    {
+      "barrio_codigo": "0796027",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 1401.26582278481,
+      "distrito_nombre": "    Arganzuela ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079602",
+      "superficie_km2": 0.79,
+      "barrio_nombre": "        Atocha"
+    },
+    {
+      "barrio_codigo": "0796031",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 44271.05263157895,
+      "distrito_nombre": "    Retiro ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079603",
+      "superficie_km2": 0.76,
+      "barrio_nombre": "        Pacífico"
+    },
+    {
+      "barrio_codigo": "0796032",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 29750.819672131154,
+      "distrito_nombre": "    Retiro ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079603",
+      "superficie_km2": 0.6099999999999999,
+      "barrio_nombre": "        Adelfas"
+    },
+    {
+      "barrio_codigo": "0796033",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 22701.960784313716,
+      "distrito_nombre": "    Retiro ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079603",
+      "superficie_km2": 1.0200000000000005,
+      "barrio_nombre": "        Estrella"
+    },
+    {
+      "barrio_codigo": "0796034",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 42697.99999999999,
+      "distrito_nombre": "    Retiro ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079603",
+      "superficie_km2": 0.5000000000000001,
+      "barrio_nombre": "        Ibiza"
+    },
+    {
+      "barrio_codigo": "0796035",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 3730.6878306878307,
+      "distrito_nombre": "    Retiro ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079603",
+      "superficie_km2": 1.89,
+      "barrio_nombre": "        Jerónimos"
+    },
+    {
+      "barrio_codigo": "0796036",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 23706.249999999996,
+      "distrito_nombre": "    Retiro ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079603",
+      "superficie_km2": 0.6400000000000001,
+      "barrio_nombre": "        Niño Jesús"
+    },
+    {
+      "barrio_codigo": "0796041",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 17828.735632183907,
+      "distrito_nombre": "    Salamanca ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079604",
+      "superficie_km2": 0.8700000000000001,
+      "barrio_nombre": "        Recoletos"
+    },
+    {
+      "barrio_codigo": "0796042",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 38016.8831168831,
+      "distrito_nombre": "    Salamanca ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079604",
+      "superficie_km2": 0.7700000000000002,
+      "barrio_nombre": "        Goya"
+    },
+    {
+      "barrio_codigo": "0796043",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 24812.048192771075,
+      "distrito_nombre": "    Salamanca ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079604",
+      "superficie_km2": 0.8300000000000003,
+      "barrio_nombre": "        Fuente del Berro"
+    },
+    {
+      "barrio_codigo": "0796044",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 25740.506329113916,
+      "distrito_nombre": "    Salamanca ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079604",
+      "superficie_km2": 1.5800000000000005,
+      "barrio_nombre": "        Guindalera"
+    },
+    {
+      "barrio_codigo": "0796045",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 38435.185185185175,
+      "distrito_nombre": "    Salamanca ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079604",
+      "superficie_km2": 0.5400000000000001,
+      "barrio_nombre": "        Lista"
+    },
+    {
+      "barrio_codigo": "0796046",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 22090.909090909085,
+      "distrito_nombre": "    Salamanca ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079604",
+      "superficie_km2": 0.7700000000000002,
+      "barrio_nombre": "        Castellana"
+    },
+    {
+      "barrio_codigo": "0796051",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 9911.627906976742,
+      "distrito_nombre": "    Chamartín ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079605",
+      "superficie_km2": 1.7200000000000002,
+      "barrio_nombre": "        El Viso"
+    },
+    {
+      "barrio_codigo": "0796052",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 35740.594059405936,
+      "distrito_nombre": "    Chamartín ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079605",
+      "superficie_km2": 1.0100000000000002,
+      "barrio_nombre": "        Prosperidad"
+    },
+    {
+      "barrio_codigo": "0796053",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 23794.80519480519,
+      "distrito_nombre": "    Chamartín ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079605",
+      "superficie_km2": 0.7700000000000001,
+      "barrio_nombre": "        Ciudad Jardín"
+    },
+    {
+      "barrio_codigo": "0796054",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 18266.66666666666,
+      "distrito_nombre": "    Chamartín ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079605",
+      "superficie_km2": 1.7100000000000004,
+      "barrio_nombre": "        Hispanoamérica"
+    },
+    {
+      "barrio_codigo": "0796055",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 13539.32584269663,
+      "distrito_nombre": "    Chamartín ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079605",
+      "superficie_km2": 1.78,
+      "barrio_nombre": "        Nueva España"
+    },
+    {
+      "barrio_codigo": "0796056",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 7789.671361502346,
+      "distrito_nombre": "    Chamartín ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079605",
+      "superficie_km2": 2.1300000000000003,
+      "barrio_nombre": "        Castilla"
+    },
+    {
+      "barrio_codigo": "0796061",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 38923.28767123286,
+      "distrito_nombre": "    Tetuan ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079606",
+      "superficie_km2": 0.7300000000000003,
+      "barrio_nombre": "        Bellas Vistas"
+    },
+    {
+      "barrio_codigo": "0796062",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 28535.29411764705,
+      "distrito_nombre": "    Tetuan ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079606",
+      "superficie_km2": 1.1900000000000004,
+      "barrio_nombre": "        Cuatro Caminos"
+    },
+    {
+      "barrio_codigo": "0796063",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 28962.318840579705,
+      "distrito_nombre": "    Tetuan ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079606",
+      "superficie_km2": 0.6900000000000002,
+      "barrio_nombre": "        Castillejos"
+    },
+    {
+      "barrio_codigo": "0796064",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 22232.323232323233,
+      "distrito_nombre": "    Tetuan ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079606",
+      "superficie_km2": 0.99,
+      "barrio_nombre": "        Almenara"
+    },
+    {
+      "barrio_codigo": "0796065",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 21574.358974358973,
+      "distrito_nombre": "    Tetuan ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079606",
+      "superficie_km2": 1.1700000000000002,
+      "barrio_nombre": "        Valdeacederas"
+    },
+    {
+      "barrio_codigo": "0796066",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 40533.33333333333,
+      "distrito_nombre": "    Tetuan ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079606",
+      "superficie_km2": 0.6000000000000001,
+      "barrio_nombre": "        Berruguete"
+    },
+    {
+      "barrio_codigo": "0796071",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 45732.653061224475,
+      "distrito_nombre": "    Chamberí ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079607",
+      "superficie_km2": 0.49000000000000016,
+      "barrio_nombre": "        Gaztambide"
+    },
+    {
+      "barrio_codigo": "0796072",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 42435.08771929823,
+      "distrito_nombre": "    Chamberí ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079607",
+      "superficie_km2": 0.5700000000000002,
+      "barrio_nombre": "        Arapiles"
+    },
+    {
+      "barrio_codigo": "0796073",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 39561.29032258064,
+      "distrito_nombre": "    Chamberí ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079607",
+      "superficie_km2": 0.6200000000000001,
+      "barrio_nombre": "        Trafalgar"
+    },
+    {
+      "barrio_codigo": "0796074",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 20517.708333333332,
+      "distrito_nombre": "    Chamberí ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079607",
+      "superficie_km2": 0.9600000000000001,
+      "barrio_nombre": "        Almagro"
+    },
+    {
+      "barrio_codigo": "0796075",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 26544.554455445537,
+      "distrito_nombre": "    Chamberí ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079607",
+      "superficie_km2": 1.0100000000000002,
+      "barrio_nombre": "        Ríos Rosas"
+    },
+    {
+      "barrio_codigo": "0796076",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 18306.48148148148,
+      "distrito_nombre": "    Chamberí ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079607",
+      "superficie_km2": 1.08,
+      "barrio_nombre": "        Vallehermoso"
+    },
+    {
+      "barrio_codigo": "0796081",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 18.085956223038824,
+      "distrito_nombre": "    Fuencarral-El Pardo ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079608",
+      "superficie_km2": 187.77,
+      "barrio_nombre": "        El Pardo"
+    },
+    {
+      "barrio_codigo": "0796082",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 2113.9072847682114,
+      "distrito_nombre": "    Fuencarral-El Pardo ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079608",
+      "superficie_km2": 1.5100000000000002,
+      "barrio_nombre": "        Fuentelarreina"
+    },
+    {
+      "barrio_codigo": "0796083",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 15476.923076923078,
+      "distrito_nombre": "    Fuencarral-El Pardo ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079608",
+      "superficie_km2": 2.86,
+      "barrio_nombre": "        Peña Grande"
+    },
+    {
+      "barrio_codigo": "0796084",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 33451.82481751824,
+      "distrito_nombre": "    Fuencarral-El Pardo ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079608",
+      "superficie_km2": 1.3700000000000006,
+      "barrio_nombre": "        El Pilar"
+    },
+    {
+      "barrio_codigo": "0796085",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 15578.80184331797,
+      "distrito_nombre": "    Fuencarral-El Pardo ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079608",
+      "superficie_km2": 2.1700000000000004,
+      "barrio_nombre": "        La Paz"
+    },
+    {
+      "barrio_codigo": "0796086",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 6642.857142857143,
+      "distrito_nombre": "    Fuencarral-El Pardo ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079608",
+      "superficie_km2": 9.03,
+      "barrio_nombre": "        Valverde"
+    },
+    {
+      "barrio_codigo": "0796087",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 4465.7018813314035,
+      "distrito_nombre": "    Fuencarral-El Pardo ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079608",
+      "superficie_km2": 6.91,
+      "barrio_nombre": "        Mirasierra"
+    },
+    {
+      "barrio_codigo": "0796088",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 658.9840788476117,
+      "distrito_nombre": "    Fuencarral-El Pardo ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079608",
+      "superficie_km2": 26.380000000000003,
+      "barrio_nombre": "        El Goloso"
+    },
+    {
+      "barrio_codigo": "0796091",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 735.9518348623852,
+      "distrito_nombre": "    Moncloa-Aravaca ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079609",
+      "superficie_km2": 17.44,
+      "barrio_nombre": "        Casa de Campo"
+    },
+    {
+      "barrio_codigo": "0796092",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 31062.337662337657,
+      "distrito_nombre": "    Moncloa-Aravaca ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079609",
+      "superficie_km2": 0.7700000000000001,
+      "barrio_nombre": "        Argüelles"
+    },
+    {
+      "barrio_codigo": "0796093",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 1135.0070721357852,
+      "distrito_nombre": "    Moncloa-Aravaca ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079609",
+      "superficie_km2": 14.139999999999997,
+      "barrio_nombre": "        Ciudad Universitaria"
+    },
+    {
+      "barrio_codigo": "0796094",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 20317.361111111102,
+      "distrito_nombre": "    Moncloa-Aravaca ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079609",
+      "superficie_km2": 1.4400000000000006,
+      "barrio_nombre": "        Valdezarza"
+    },
+    {
+      "barrio_codigo": "0796095",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 1966.2576687116566,
+      "distrito_nombre": "    Moncloa-Aravaca ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079609",
+      "superficie_km2": 3.26,
+      "barrio_nombre": "        Valdemarín"
+    },
+    {
+      "barrio_codigo": "0796096",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 764.8876404494382,
+      "distrito_nombre": "    Moncloa-Aravaca ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079609",
+      "superficie_km2": 3.56,
+      "barrio_nombre": "        El Plantío"
+    },
+    {
+      "barrio_codigo": "0796097",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 4384.300341296928,
+      "distrito_nombre": "    Moncloa-Aravaca ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079609",
+      "superficie_km2": 5.859999999999999,
+      "barrio_nombre": "        Aravaca"
+    },
+    {
+      "barrio_codigo": "0796101",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 13116.153846153846,
+      "distrito_nombre": "    Latina ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079610",
+      "superficie_km2": 1.3,
+      "barrio_nombre": "        Los Cármenes"
+    },
+    {
+      "barrio_codigo": "0796102",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 29748.550724637666,
+      "distrito_nombre": "    Latina ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079610",
+      "superficie_km2": 1.3800000000000008,
+      "barrio_nombre": "        Puerta del Angel"
+    },
+    {
+      "barrio_codigo": "0796103",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 20756.470588235286,
+      "distrito_nombre": "    Latina ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079610",
+      "superficie_km2": 1.7000000000000006,
+      "barrio_nombre": "        Lucero"
+    },
+    {
+      "barrio_codigo": "0796104",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 22839.860139860153,
+      "distrito_nombre": "    Latina ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079610",
+      "superficie_km2": 2.8599999999999985,
+      "barrio_nombre": "        Aluche"
+    },
+    {
+      "barrio_codigo": "0796105",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 2050.218340611354,
+      "distrito_nombre": "    Latina ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079610",
+      "superficie_km2": 9.159999999999998,
+      "barrio_nombre": "        Campamento"
+    },
+    {
+      "barrio_codigo": "0796106",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 1003.1250000000001,
+      "distrito_nombre": "    Latina ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079610",
+      "superficie_km2": 5.4399999999999995,
+      "barrio_nombre": "        Cuatro Vientos"
+    },
+    {
+      "barrio_codigo": "0796107",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 14038.842975206619,
+      "distrito_nombre": "    Latina ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079610",
+      "superficie_km2": 3.629999999999998,
+      "barrio_nombre": "        Las Aguilas"
+    },
+    {
+      "barrio_codigo": "0796111",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 32999.999999999985,
+      "distrito_nombre": "    Carabanchel ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079611",
+      "superficie_km2": 0.6700000000000003,
+      "barrio_nombre": "        Comillas"
+    },
+    {
+      "barrio_codigo": "0796112",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 28110.52631578947,
+      "distrito_nombre": "    Carabanchel ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079611",
+      "superficie_km2": 1.1400000000000001,
+      "barrio_nombre": "        Opañel"
+    },
+    {
+      "barrio_codigo": "0796113",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 19997.894736842096,
+      "distrito_nombre": "    Carabanchel ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079611",
+      "superficie_km2": 1.9000000000000008,
+      "barrio_nombre": "        San Isidro"
+    },
+    {
+      "barrio_codigo": "0796114",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 27212.269938650294,
+      "distrito_nombre": "    Carabanchel ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079611",
+      "superficie_km2": 1.6300000000000008,
+      "barrio_nombre": "        Vista Alegre"
+    },
+    {
+      "barrio_codigo": "0796115",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 20632.499999999996,
+      "distrito_nombre": "    Carabanchel ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079611",
+      "superficie_km2": 1.6000000000000003,
+      "barrio_nombre": "        Puerta Bonita"
+    },
+    {
+      "barrio_codigo": "0796116",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 8080.357142857142,
+      "distrito_nombre": "    Carabanchel ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079611",
+      "superficie_km2": 5.6000000000000005,
+      "barrio_nombre": "        Buenavista"
+    },
+    {
+      "barrio_codigo": "0796117",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 18844.871794871793,
+      "distrito_nombre": "    Carabanchel ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079611",
+      "superficie_km2": 1.5600000000000003,
+      "barrio_nombre": "        Abrantes"
+    },
+    {
+      "barrio_codigo": "0796121",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 16845.112781954882,
+      "distrito_nombre": "    Usera ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079612",
+      "superficie_km2": 1.3300000000000005,
+      "barrio_nombre": "        Orcasitas"
+    },
+    {
+      "barrio_codigo": "0796122",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 9391.549295774648,
+      "distrito_nombre": "    Usera ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079612",
+      "superficie_km2": 1.42,
+      "barrio_nombre": "        Orcasur"
+    },
+    {
+      "barrio_codigo": "0796123",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 15936.111111111108,
+      "distrito_nombre": "    Usera ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079612",
+      "superficie_km2": 1.4400000000000004,
+      "barrio_nombre": "        San Fermín"
+    },
+    {
+      "barrio_codigo": "0796124",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 27479.999999999996,
+      "distrito_nombre": "    Usera ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079612",
+      "superficie_km2": 0.7500000000000001,
+      "barrio_nombre": "        Almendrales"
+    },
+    {
+      "barrio_codigo": "0796125",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 28230.000000000004,
+      "distrito_nombre": "    Usera ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079612",
+      "superficie_km2": 0.8999999999999999,
+      "barrio_nombre": "        Moscardó"
+    },
+    {
+      "barrio_codigo": "0796126",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 17466.233766233763,
+      "distrito_nombre": "    Usera ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079612",
+      "superficie_km2": 0.7700000000000001,
+      "barrio_nombre": "        Zofío"
+    },
+    {
+      "barrio_codigo": "0796127",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 15475.229357798164,
+      "distrito_nombre": "    Usera ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079612",
+      "superficie_km2": 1.09,
+      "barrio_nombre": "        Pradolongo"
+    },
+    {
+      "barrio_codigo": "0796131",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 5636.9747899159665,
+      "distrito_nombre": "    Puente de Vallecas ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079613",
+      "superficie_km2": 5.95,
+      "barrio_nombre": "        Entrevías"
+    },
+    {
+      "barrio_codigo": "0796132",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 37027.35849056602,
+      "distrito_nombre": "    Puente de Vallecas ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079613",
+      "superficie_km2": 1.0600000000000005,
+      "barrio_nombre": "        San Diego"
+    },
+    {
+      "barrio_codigo": "0796133",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 22875.581395348832,
+      "distrito_nombre": "    Puente de Vallecas ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079613",
+      "superficie_km2": 1.7200000000000004,
+      "barrio_nombre": "        Palomeras Bajas"
+    },
+    {
+      "barrio_codigo": "0796134",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 13777.04918032787,
+      "distrito_nombre": "    Puente de Vallecas ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079613",
+      "superficie_km2": 3.05,
+      "barrio_nombre": "        Palomeras Sureste"
+    },
+    {
+      "barrio_codigo": "0796135",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 22310.48387096774,
+      "distrito_nombre": "    Puente de Vallecas ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079613",
+      "superficie_km2": 1.2400000000000002,
+      "barrio_nombre": "        Portazgo"
+    },
+    {
+      "barrio_codigo": "0796136",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 25219.780219780212,
+      "distrito_nombre": "    Puente de Vallecas ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079613",
+      "superficie_km2": 1.8200000000000005,
+      "barrio_nombre": "        Numancia"
+    },
+    {
+      "barrio_codigo": "0796141",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 9117.999999999998,
+      "distrito_nombre": "    Moratalaz ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079614",
+      "superficie_km2": 1.0000000000000002,
+      "barrio_nombre": "        Pavones"
+    },
+    {
+      "barrio_codigo": "0796142",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 8815.068493150686,
+      "distrito_nombre": "    Moratalaz ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079614",
+      "superficie_km2": 0.73,
+      "barrio_nombre": "        Horcajo"
+    },
+    {
+      "barrio_codigo": "0796143",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 15633.714285714279,
+      "distrito_nombre": "    Moratalaz ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079614",
+      "superficie_km2": 1.7500000000000007,
+      "barrio_nombre": "        Marroquina"
+    },
+    {
+      "barrio_codigo": "0796144",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 17466.666666666668,
+      "distrito_nombre": "    Moratalaz ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079614",
+      "superficie_km2": 1.02,
+      "barrio_nombre": "        Media Legua"
+    },
+    {
+      "barrio_codigo": "0796145",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 17044.897959183672,
+      "distrito_nombre": "    Moratalaz ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079614",
+      "superficie_km2": 0.9800000000000001,
+      "barrio_nombre": "        Fontarrón"
+    },
+    {
+      "barrio_codigo": "0796146",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 27948.333333333325,
+      "distrito_nombre": "    Moratalaz ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079614",
+      "superficie_km2": 0.6000000000000002,
+      "barrio_nombre": "        Vinateros"
+    },
+    {
+      "barrio_codigo": "0796151",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 14700.93167701865,
+      "distrito_nombre": "    Ciudad Lineal ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079615",
+      "superficie_km2": 3.219999999999996,
+      "barrio_nombre": "        Ventas"
+    },
+    {
+      "barrio_codigo": "0796152",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 25838.888888888887,
+      "distrito_nombre": "    Ciudad Lineal ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079615",
+      "superficie_km2": 2.3400000000000003,
+      "barrio_nombre": "        Pueblo Nuevo"
+    },
+    {
+      "barrio_codigo": "0796153",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 34056.338028169,
+      "distrito_nombre": "    Ciudad Lineal ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079615",
+      "superficie_km2": 0.7100000000000003,
+      "barrio_nombre": "        Quintana"
+    },
+    {
+      "barrio_codigo": "0796154",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 22828.888888888887,
+      "distrito_nombre": "    Ciudad Lineal ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079615",
+      "superficie_km2": 0.9000000000000001,
+      "barrio_nombre": "        Concepción"
+    },
+    {
+      "barrio_codigo": "0796155",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 17079.245283018867,
+      "distrito_nombre": "    Ciudad Lineal ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079615",
+      "superficie_km2": 1.06,
+      "barrio_nombre": "        San Pascual"
+    },
+    {
+      "barrio_codigo": "0796156",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 11888.461538461537,
+      "distrito_nombre": "    Ciudad Lineal ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079615",
+      "superficie_km2": 1.04,
+      "barrio_nombre": "        San Juan Bautista"
+    },
+    {
+      "barrio_codigo": "0796157",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 10932.142857142857,
+      "distrito_nombre": "    Ciudad Lineal ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079615",
+      "superficie_km2": 0.56,
+      "barrio_nombre": "        Colina"
+    },
+    {
+      "barrio_codigo": "0796158",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 6240.0,
+      "distrito_nombre": "    Ciudad Lineal ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079615",
+      "superficie_km2": 0.25,
+      "barrio_nombre": "        Atalaya"
+    },
+    {
+      "barrio_codigo": "0796159",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 15230.555555555551,
+      "distrito_nombre": "    Ciudad Lineal ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079615",
+      "superficie_km2": 1.4400000000000004,
+      "barrio_nombre": "        Costillares"
+    },
+    {
+      "barrio_codigo": "0796161",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 5859.649122807018,
+      "distrito_nombre": "    Hortaleza ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079616",
+      "superficie_km2": 1.14,
+      "barrio_nombre": "        Palomas"
+    },
+    {
+      "barrio_codigo": "0796162",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 4601.910828025478,
+      "distrito_nombre": "    Hortaleza ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079616",
+      "superficie_km2": 3.14,
+      "barrio_nombre": "        Piovera"
+    },
+    {
+      "barrio_codigo": "0796163",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 15820.3125,
+      "distrito_nombre": "    Hortaleza ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079616",
+      "superficie_km2": 2.56,
+      "barrio_nombre": "        Canillas"
+    },
+    {
+      "barrio_codigo": "0796164",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 19682.954545454544,
+      "distrito_nombre": "    Hortaleza ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079616",
+      "superficie_km2": 2.64,
+      "barrio_nombre": "        Pinar del Rey"
+    },
+    {
+      "barrio_codigo": "0796165",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 12627.5,
+      "distrito_nombre": "    Hortaleza ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079616",
+      "superficie_km2": 1.2,
+      "barrio_nombre": "        Apostol Santiago"
+    },
+    {
+      "barrio_codigo": "0796166",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 3400.5266622778145,
+      "distrito_nombre": "    Hortaleza ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079616",
+      "superficie_km2": 15.19,
+      "barrio_nombre": "        Valdefuentes"
+    },
+    {
+      "barrio_codigo": "0796171",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 4777.252747252751,
+      "distrito_nombre": "    Villaverde ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079617",
+      "superficie_km2": 9.099999999999993,
+      "barrio_nombre": "        San Andrés"
+    },
+    {
+      "barrio_codigo": "0796172",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 13939.449541284403,
+      "distrito_nombre": "    Villaverde ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079617",
+      "superficie_km2": 1.09,
+      "barrio_nombre": "        San Cristobal"
+    },
+    {
+      "barrio_codigo": "0796173",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 2706.593406593407,
+      "distrito_nombre": "    Villaverde ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079617",
+      "superficie_km2": 6.369999999999999,
+      "barrio_nombre": "        Butarque"
+    },
+    {
+      "barrio_codigo": "0796174",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 24163.576158940392,
+      "distrito_nombre": "    Villaverde ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079617",
+      "superficie_km2": 1.5100000000000005,
+      "barrio_nombre": "        Los Rosales"
+    },
+    {
+      "barrio_codigo": "0796175",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 14144.85981308411,
+      "distrito_nombre": "    Villaverde ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079617",
+      "superficie_km2": 2.1400000000000006,
+      "barrio_nombre": "        Los Angeles"
+    },
+    {
+      "barrio_codigo": "0796181",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 1622.7300303336704,
+      "distrito_nombre": "    Villa de Vallecas ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079618",
+      "superficie_km2": 49.45,
+      "barrio_nombre": "        Casco Histórico de Vallecas"
+    },
+    {
+      "barrio_codigo": "0796182",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 11822.058823529409,
+      "distrito_nombre": "    Villa de Vallecas ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079618",
+      "superficie_km2": 2.0400000000000005,
+      "barrio_nombre": "        Santa Eugenia"
+    },
+    {
+      "barrio_codigo": "0796191",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 1566.5654418463407,
+      "distrito_nombre": "    Vicálvaro ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079619",
+      "superficie_km2": 32.93,
+      "barrio_nombre": "        Casco Histórico de Vicálvaro"
+    },
+    {
+      "barrio_codigo": "0796192",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 7598.765432098765,
+      "distrito_nombre": "    Vicálvaro ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079619",
+      "superficie_km2": 2.43,
+      "barrio_nombre": "        Ambroz"
+    },
+    {
+      "barrio_codigo": "0796201",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 11572.052401746725,
+      "distrito_nombre": "    San Blas-Canillejas ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079620",
+      "superficie_km2": 2.29,
+      "barrio_nombre": "        Simancas"
+    },
+    {
+      "barrio_codigo": "0796202",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 15773.214285714284,
+      "distrito_nombre": "    San Blas-Canillejas ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079620",
+      "superficie_km2": 0.56,
+      "barrio_nombre": "        Hellín"
+    },
+    {
+      "barrio_codigo": "0796203",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 22213.51351351351,
+      "distrito_nombre": "    San Blas-Canillejas ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079620",
+      "superficie_km2": 0.37000000000000005,
+      "barrio_nombre": "        Amposta"
+    },
+    {
+      "barrio_codigo": "0796204",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 18129.770992366408,
+      "distrito_nombre": "    San Blas-Canillejas ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079620",
+      "superficie_km2": 1.3100000000000003,
+      "barrio_nombre": "        Arcos"
+    },
+    {
+      "barrio_codigo": "0796205",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 3403.0237580993517,
+      "distrito_nombre": "    San Blas-Canillejas ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079620",
+      "superficie_km2": 9.260000000000002,
+      "barrio_nombre": "        Rosas"
+    },
+    {
+      "barrio_codigo": "0796206",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 3165.6626506024095,
+      "distrito_nombre": "    San Blas-Canillejas ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079620",
+      "superficie_km2": 4.98,
+      "barrio_nombre": "        Rejas"
+    },
+    {
+      "barrio_codigo": "0796207",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 17429.44785276073,
+      "distrito_nombre": "    San Blas-Canillejas ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079620",
+      "superficie_km2": 1.6300000000000006,
+      "barrio_nombre": "        Canillejas"
+    },
+    {
+      "barrio_codigo": "0796208",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 6112.903225806452,
+      "distrito_nombre": "    San Blas-Canillejas ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079620",
+      "superficie_km2": 1.8599999999999999,
+      "barrio_nombre": "        El Salvador"
+    },
+    {
+      "barrio_codigo": "0796211",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 9795.454545454544,
+      "distrito_nombre": "    Barajas ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079621",
+      "superficie_km2": 1.9800000000000004,
+      "barrio_nombre": "        Alameda de Osuna"
+    },
+    {
+      "barrio_codigo": "0796212",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 89.8842476094615,
+      "distrito_nombre": "    Barajas ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079621",
+      "superficie_km2": 19.87,
+      "barrio_nombre": "        Aeropuerto"
+    },
+    {
+      "barrio_codigo": "0796213",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 11415.624999999998,
+      "distrito_nombre": "    Barajas ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079621",
+      "superficie_km2": 0.6400000000000001,
+      "barrio_nombre": "        Casco Histórico de Barajas"
+    },
+    {
+      "barrio_codigo": "0796214",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 672.0121951219511,
+      "distrito_nombre": "    Barajas ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079621",
+      "superficie_km2": 16.400000000000002,
+      "barrio_nombre": "        Timón"
+    },
+    {
+      "barrio_codigo": "0796215",
+      "municipio_codigo": "0796",
+      "densidad_por_km2": 1577.0877944325482,
+      "distrito_nombre": "    Barajas ",
+      "municipio_nombre": "Madrid",
+      "distrito_codigo": "079621",
+      "superficie_km2": 4.67,
+      "barrio_nombre": "        Corralejos"
+    }
+  ]
+}

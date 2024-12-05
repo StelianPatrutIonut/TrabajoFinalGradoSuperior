@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layout xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#009EFE"
+        tools:context=".MainActivitySignIn">
+
+        <ImageButton
+            android:id="@+id/ibtnAtrasMain"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#009DFD"
+            android:tint="#FFFFFF"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.023"
+            app:srcCompat="@drawable/arrow_back_fill0_wght400_grad0_opsz24" />
+
+        <Button
+            android:id="@+id/btnCrearCuenta1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#009DFD"
+            android:fontFamily="sans-serif-black"
+            android:text="@string/boton_crear_cuenta_sign_in"
+            android:textSize="15sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.023" />
+
+        <TextView
+            android:id="@+id/tViewInicioSesion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-black"
+            android:text="@string/cabecera_inicio_sesion"
+            android:textColor="#FFFFFF"
+            android:textSize="35sp"
+            app:layout_constraintBottom_toTopOf="@+id/tViewInicioSesion1"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.238"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.83" />
+
+        <TextView
+            android:id="@+id/tViewInicioSesion1"
+            android:layout_width="330dp"
+            android:layout_height="64dp"
+            android:fontFamily="sans-serif-black"
+            android:text="@string/cuerpo_inicio_sesion"
+            android:textColor="#FFFFFF"
+            android:textSize="15sp"
+            app:layout_constraintBottom_toTopOf="@+id/cLayout1"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.492"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.746" />
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/cLayout1"
+            android:layout_width="match_parent"
+            android:layout_height="512dp"
+            android:background="@drawable/esquina_redondeada_sign_in"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="1.0">
+
+            <EditText
+                android:id="@+id/eTextCorreoElectronico"
+                android:layout_width="300dp"
+                android:layout_height="60dp"
+                android:fontFamily="sans-serif-black"
+                android:background="@drawable/esquina_redondeada_edit_text"
+                android:backgroundTint="#EAE5E5"
+                android:ems="10"
+                android:hint="@string/hint_correo_electronico"
+                android:inputType="text"
+                android:paddingLeft="20dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.495"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.086" />
+
+            <EditText
+                android:id="@+id/eTextContrasenya"
+                android:layout_width="300dp"
+                android:layout_height="60dp"
+                android:fontFamily="sans-serif-black"
+                android:background="@drawable/esquina_redondeada_edit_text"
+                android:backgroundTint="#E9E4E4"
+                android:ems="10"
+                android:hint="@string/hint_contrasenya"
+                android:inputType="textPassword"
+                android:paddingLeft="20dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.494"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.25" />
+
+            <ImageButton
+                android:id="@+id/ibtnVisibilidadContrasenya"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#FEFEFE"
+                android:tint="#042E44"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="1.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.262"
+                app:srcCompat="@drawable/visibility_off_fill0_wght400_grad0_opsz24" />
+
+            <TextView
+                android:id="@+id/tViewCorreoContrasenya"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#FF0909"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.486"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.377" />
+
+            <Button
+                android:id="@+id/btnRecuperarContrasenya"
+                android:layout_width="216dp"
+                android:layout_height="37dp"
+                android:backgroundTint="#FEFEFE"
+                android:fontFamily="sans-serif-black"
+                android:text="@string/boton_contrasenya_olvidada"
+                android:textAlignment="textStart"
+                android:textColor="#009DFD"
+                android:textSize="12sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="1.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.435" />
+
+            <Button
+                android:id="@+id/btnIniciarSesion1"
+                android:layout_width="300dp"
+                android:layout_height="60dp"
+                android:backgroundTint="#042E44"
+                android:fontFamily="sans-serif-black"
+                android:text="@string/boton_iniciar_sesion"
+                android:textSize="20sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.494"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.561" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/cLayout1_1"
+                android:layout_width="310dp"
+                android:layout_height="60dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.495"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.740">
+
+                <Button
+                    android:id="@+id/btnContinuaGoogle"
+                    android:layout_width="310dp"
+                    android:layout_height="60dp"
+                    android:backgroundTint="#E9E4E4"
+                    android:fontFamily="sans-serif-black"
+                    android:text="@string/boton_inicio_google"
+                    android:textColor="#000000"
+                    android:textSize="20sp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.0" />
+
+                <ImageView
+                    android:id="@+id/iViewFlecha"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="@+id/btnContinuaGoogle"
+                    app:layout_constraintHorizontal_bias="0.942"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:srcCompat="@drawable/arrow_forward_fill0_wght400_grad0_opsz24" />
+
+                <FrameLayout
+                    android:id="@+id/fLayoutGoogle"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_gravity="center"
+                    android:background="@drawable/circulo_imagen"
+                    android:backgroundTint="#F4F4F4"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.059"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.533">
+
+                    <ImageView
+                        android:id="@+id/iViewLogoGoogle"
+                        android:layout_width="25dp"
+                        android:layout_height="20dp"
+                        android:layout_gravity="center"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/logogoogle" />
+
+                </FrameLayout>
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/cLayout1_2"
+                android:layout_width="320dp"
+                android:layout_height="60dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.910">
+
+                <Button
+                    android:id="@+id/btnContinuaTelefono"
+                    android:layout_width="310dp"
+                    android:layout_height="60dp"
+                    android:backgroundTint="#E9E4E4"
+                    android:fontFamily="sans-serif-black"
+                    android:text="@string/boton_inicio_telefono"
+                    android:textColor="#000000"
+                    android:textSize="20sp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.0" />
+
+                <ImageView
+                    android:id="@+id/iViewFlecha1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.945"
+                    app:layout_constraintStart_toStartOf="@+id/btnContinuaTelefono"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:srcCompat="@drawable/arrow_forward_fill0_wght400_grad0_opsz24" />
+
+                <FrameLayout
+                    android:id="@+id/fLayoutTelefono"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_gravity="center"
+                    android:background="@drawable/circulo_imagen"
+                    android:backgroundTint="#F4F4F4"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.04"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.533">
+
+                    <ImageView
+                        android:id="@+id/iViewTelefono"
+                        android:layout_width="25dp"
+                        android:layout_height="20dp"
+                        android:layout_gravity="center"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/call_fill0_wght400_grad0_opsz24" />
+                </FrameLayout>
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</layout>

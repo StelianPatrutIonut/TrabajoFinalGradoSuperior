@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@drawable/ic_menu_map"
+            android:title="@string/menu_map" />
+        <item
+            android:id="@+id/nav_route"
+            android:icon="@drawable/ic_menu_route"
+            android:title="@string/menu_route" />
+        <item
+            android:id="@+id/nav_ramdom"
+            android:icon="@drawable/ic_menu_ramdom"
+            android:title="@string/menu_ramdom" />
+        <item
+            android:id="@+id/nav_favorite"
+            android:icon="@drawable/ic_menu_favorite"
+            android:title="@string/menu_favorite" />
+
+        <item
+            android:id="@+id/nav_myLocation"
+            android:icon="@android:drawable/ic_menu_mylocation"
+            android:title="@string/menu_myLocation" />
+
+        <item
+            android:id="@+id/nav_pulication"
+            android:icon="@drawable/publicaciones"
+            android:title="@string/menu_pulication" />
+
+        <item
+            android:id="@+id/nav_weather"
+            android:icon="@drawable/weather"
+            android:title="@string/menu_weather" />
+
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/modificarperfil"
+            android:title="@string/menu_profile" />
+
+        <item
+            android:id="@+id/nav_signOff"
+            android:icon="@drawable/cerrarsesion"
+            android:title="@string/menu_signOff" />
+
+    </group>
+
+</menu>

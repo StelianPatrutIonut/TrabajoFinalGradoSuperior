@@ -1,0 +1,90 @@
+<resources>
+
+    <!-- String con el identificador web del cliente para funcionalidades de Firebase -->
+    <string name="default_web_client_id">531380707910-bpe45g636rha1ctuk4nkeu52t17bcv6r.apps.googleusercontent.com</string>
+
+    <!-- String con el nombre de aplicación -->
+    <string name="app_name">TripTrendy</string>
+
+    <!-- Strings de la activity Main Activity -->
+    <string name="cabecera_bienvenida">¡Bienvenido a la familia de TripTrendy!</string>
+    <string name="cuerpo_bienvenida">Estamos emocionados de tenerte a bordo para explorar el mundo de una manera totalmente nueva y emocionante. Con TripTrendy, no solo estás obteniendo una ruta turística, estás embarcando en una aventura única y personalizada que te llevará a descubrir los rincones más fascinantes de cada destino.</string>
+
+    <!-- Strings de la activity Main Activity Sign In -->
+    <string name="cabecera_inicio_sesion">Inicio de Sesión</string>
+    <string name="cuerpo_inicio_sesion">¡Bienvenidos de nuevo a Trip Trendy! Descubre nuevos destinos y crea recuerdos inolvidables con nosotros 🌍✨</string>
+
+    <!-- Strings de la activity Main Activity Sign Up -->
+    <string name="cabecera_crear_cuenta">Crear Cuenta</string>
+    <string name="cuerpo_crear_cuenta">¡Únete a la comunidad de viajes TripTrendy y comienza a explorar el mundo con nosotros! Regístrate ahora para descubrir experiencias únicas y destinos fascinantes 🌍✈️</string>
+
+    <!-- Strings de la activity Main Activity Sign In Phone -->
+    <string name="cabecera_inicio_sesion_telefono">Introduce tu número de teléfono</string>
+    <string name="cuerpo_inicio_sesion_telefono">Trip Trendy te enviará un mensaje SMS para verificar tu número de teléfono.</string>
+
+    <!-- Strings de la activity Main Activity Registro -->
+    <string name="cabecera_registro">Registro de usuarios</string>
+
+    <!-- Strings de la activity Main Activity Profile -->
+    <string name="cabecera_perfil">Actualizar perfil</string>
+
+    <!-- Strings de la activity Ramdom Fagmen -->
+    <string name="cabecera_publication">Crear publicacion</string>
+
+    <!-- Strings de los botones -->
+    <string name="boton_iniciar_sesion">Iniciar Sesión</string>
+    <string name="boton_crear_cuenta">Crear Cuenta</string>
+    <string name="boton_crear_cuenta_sign_in">Registrarse</string>
+    <string name="boton_contrasenya_olvidada">¿Has olvidado tu contraseña?</string>
+    <string name="boton_inicio_google">Continua con Google</string>
+    <string name="boton_inicio_telefono">Continua con tu Teléfono</string>
+    <string name="boton_iniciar_sesion_sign_up">Ya tienes cuenta. INICIAR SESIÓN</string>
+    <string name="boton_obtener_codigo_verificacion">Obtener código de verificación</string>
+    <string name="validacion_codigo_verificacion">Validar código de verificación</string>
+
+    <!-- Strings de los hint -->
+    <string name="hint_correo_electronico">Correo Electrónico</string>
+    <string name="hint_contrasenya">Contraseña</string>
+    <string name="hint_repetir_contrasenya">Repetir Contraseña</string>
+    <string name="title_activity_pantalla_principal">PantallaPrincipal</string>
+    <string name="hint_numero_telefono">Número De Teléfono</string>
+    <string name="hint_codigo_verificacion">Código De Verificación</string>
+    <string name="hint_nimbre_usuario">Nombre De Usuario</string>
+    <string name="hint_publicacion">Comentario</string>
+
+    <!-- Texto para abrir el cajón de navegación -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+
+    <!-- Texto para cerrar el cajón de navegación -->
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Título en el encabezado de navegación -->
+    <string name="nav_header_title">Android Studio</string>
+
+    <!-- Subtítulo en el encabezado de navegación -->
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+
+    <!-- Descripción en el encabezado de navegación -->
+    <string name="nav_header_desc">Navigation header</string>
+
+    <!-- Texto para acceder a la configuración -->
+    <string name="action_settings">Trip Trendy Versión 1.0</string>
+
+    <!-- Texto para cerrar sesión -->
+    <string name="action_signOff">Cerrar Sesión</string>
+
+    <!-- Texto para el elemento de menú -->
+    <string name="menu_map">Mapa</string>
+    <string name="menu_route">Ruta</string>
+    <string name="menu_ramdom">Ruta aleatoria</string>
+    <string name="menu_favorite">Favorito</string>
+    <string name="menu_pulication">Publicaciones</string>
+    <string name="menu_myLocation">Ubicacón Actual</string>
+    <string name="menu_profile">Perfil</string>
+    <string name="menu_weather">Tiempo</string>
+    <string name="menu_signOff">Cerrar Sesión</string>
+
+    <!-- Clave de API de Google Maps -->
+    <string name="google_maps_key">AIzaSyDlJ_tEyiTjyC1-T3Iz-TPC65K0LIZPaR8</string>
+
+</resources>

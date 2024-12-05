@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        app:cardCornerRadius="8dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="16dp">
+
+            <TextView
+                android:id="@+id/text_place_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-black"
+                android:textSize="17sp"/>
+
+            <Button
+                android:id="@+id/btn_añadir"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/text_place_name"
+                android:layout_marginTop="8dp"
+                android:text="Añadir"
+                android:fontFamily="sans-serif-black"
+                android:backgroundTint="#042E44"
+                android:textSize="17sp"/>
+
+            <ImageView
+                android:id="@+id/imagenFlonaten"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_alignTop="@id/btn_añadir"
+                android:layout_toEndOf="@id/btn_añadir"
+                android:layout_marginStart="8dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/favorite" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@id/imagenFlonaten"
+                android:layout_toEndOf="@id/imagenFlonaten"
+                android:layout_marginStart="8dp"
+                android:text="TextView" />
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>

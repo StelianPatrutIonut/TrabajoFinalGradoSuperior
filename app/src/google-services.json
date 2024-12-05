@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "531380707910",
+    "project_id": "trip-trendy-app",
+    "storage_bucket": "trip-trendy-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531380707910:android:832915c9340f31fd20a047",
+        "android_client_info": {
+          "package_name": "com.example.triptrendyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531380707910-ce7arh1q6ut0fekmv97qef45s157kp9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.triptrendyapp",
+            "certificate_hash": "b1e4abea5613e096efad3798cbefb244bdbfab0e"
+          }
+        },
+        {
+          "client_id": "531380707910-nsf5v2adm0h0d2g14t42ql8jrs0hils4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.triptrendyapp",
+            "certificate_hash": "17760e6b61fb944bbd745837f2127bd370c59b7c"
+          }
+        },
+        {
+          "client_id": "531380707910-bpe45g636rha1ctuk4nkeu52t17bcv6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-LfdhM-KkExfVtt-FKnjxflMw-TZmJKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531380707910-bpe45g636rha1ctuk4nkeu52t17bcv6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
